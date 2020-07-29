@@ -1,0 +1,13 @@
+.banner 
+{
+ width: 100%;
+ height: 100vh;
+ background-image: url("banner.jpg");
+ background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+ color: blue;
+}
